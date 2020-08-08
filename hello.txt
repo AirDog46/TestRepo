@@ -1,1 +1,3 @@
 hi if you're reading this you're a person, or maybe you're a bot, who knows
+btw this is the default branch not the master one.
+and no, master is not racist in this context
